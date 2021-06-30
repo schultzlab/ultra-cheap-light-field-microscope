@@ -1,3 +1,3 @@
-# LED Cube
+# LED Holder Cube
 
-This is the holder for LED. 
+This is a cube for holding for LED. 
