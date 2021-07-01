@@ -21,4 +21,4 @@ We thank you for your interests in our work. This work has been published on XXX
 xxx
 
 ## License
-The code in this repository is licensed under the [MIT License]() by GitHub.
+The code in this repository is licensed under the [MIT License](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/LICENSE) by GitHub.
