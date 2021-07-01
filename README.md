@@ -18,7 +18,7 @@ Any correspondence in relation to this work should be addressed to Zhiyu Zheng (
 
 ## Cite us
 We thank you for your interests in our work. This work has been published on XXX and should be cited as below.
---
+xxx
 
 ## License
 The code in this repository is licensed under the [MIT License]() by GitHub.
