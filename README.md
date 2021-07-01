@@ -12,3 +12,13 @@ This is how the system looks like in operation:
 5. [Objective lens and stage](https://github.com/schultzlab/ultra-cheap-light-field-microscope/tree/mess-from-zzy/Objective%20lens)
 6. [Sample stage](https://github.com/schultzlab/ultra-cheap-light-field-microscope/tree/mess-from-zzy/Sample%20stage)
 7. [Tube lens](https://github.com/schultzlab/ultra-cheap-light-field-microscope/tree/mess-from-zzy/Tube%20lens)
+
+## Correspondence
+Any correspondence in relation to this work should be addressed to Zhiyu Zheng (zhiyu.zheng18@imperial.ac.uk), Yinzhe Wu (yinzhe.wu18@imperial.ac.uk), and/or Simon Schultz (s.schultz@imperial.ac.uk)
+
+## Cite us
+We thank you for your interests in our work. This work has been published on XXX and should be cited as below.
+--
+
+## License
+The code in this repository is licensed under the [MIT License]() by GitHub.
