@@ -6,11 +6,11 @@ This is how the system looks like in operation:
 
 # List of materials employed and composition of costs
 We detail the material and cost compositions of our LFM as below.
-![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/Appendix/table7.3.JPG "Table_7.3")
+![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Appendix/table7.3.JPG "Table_7.3")
 
 # Cost Composition
 We detail and compare the cost composition of our LFM with one of the state-of-the-art LFM (Quicke et al.) as below.
-![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/Appendix/table_1.JPG "Table_1")
+![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Appendix/table_1.JPG "Table_1")
 
 ## List of modules
 1. [Camera and relay lens](https://github.com/schultzlab/ultra-cheap-light-field-microscope/tree/main/Camera%20and%20relay%20lens)
