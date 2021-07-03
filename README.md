@@ -4,9 +4,13 @@ This is a repository for the BE3 Group Project on ultra-cheap light field micros
 This is how the system looks like in operation:
 ![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Photos%20of%20LFM/Full%20LFM%20horizontal.jpg "Full LFM")
 
+# List of materials employed and composition of costs
+We detail the material and cost compositions of our LFM as below.
+![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Photos%20of%20LFM/Full%20LFM%20horizontal.jpg "Table_7.3")
+
 # Cost Composition
-We detail and compare the cost composition of our LFM with one of the state-of-the-art LFM (Quicke et al.)
-![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Photos%20of%20LFM/Full%20LFM%20horizontal.jpg "Full LFM")
+We detail and compare the cost composition of our LFM with one of the state-of-the-art LFM (Quicke et al.) as below.
+![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Photos%20of%20LFM/Full%20LFM%20horizontal.jpg "Table_1")
 
 ## List of modules
 1. [Camera and relay lens](https://github.com/schultzlab/ultra-cheap-light-field-microscope/tree/main/Camera%20and%20relay%20lens)
