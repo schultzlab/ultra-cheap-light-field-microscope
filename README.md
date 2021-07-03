@@ -4,6 +4,10 @@ This is a repository for the BE3 Group Project on ultra-cheap light field micros
 This is how the system looks like in operation:
 ![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Photos%20of%20LFM/Full%20LFM%20horizontal.jpg "Full LFM")
 
+# Cost Composition
+We detail and compare the cost composition of our LFM with one of the state-of-the-art LFM (Quicke et al.)
+![alt text](https://github.com/schultzlab/ultra-cheap-light-field-microscope/blob/main/Photos%20of%20LFM/Full%20LFM%20horizontal.jpg "Full LFM")
+
 ## List of modules
 1. [Camera and relay lens](https://github.com/schultzlab/ultra-cheap-light-field-microscope/tree/main/Camera%20and%20relay%20lens)
 2. [Dichroic mirror](https://github.com/schultzlab/ultra-cheap-light-field-microscope/tree/main/Dichroic%20mirror)
